@@ -1,0 +1,14 @@
+C:\Users\Lenovo\source\repos\Restaurant\core\bin\Debug\net8.0\core.deps.json
+C:\Users\Lenovo\source\repos\Restaurant\core\bin\Debug\net8.0\core.runtimeconfig.json
+C:\Users\Lenovo\source\repos\Restaurant\core\bin\Debug\net8.0\core.dll
+C:\Users\Lenovo\source\repos\Restaurant\core\bin\Debug\net8.0\core.pdb
+C:\Users\Lenovo\source\repos\Restaurant\core\obj\Debug\net8.0\core.csproj.AssemblyReference.cache
+C:\Users\Lenovo\source\repos\Restaurant\core\obj\Debug\net8.0\core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\source\repos\Restaurant\core\obj\Debug\net8.0\core.AssemblyInfoInputs.cache
+C:\Users\Lenovo\source\repos\Restaurant\core\obj\Debug\net8.0\core.AssemblyInfo.cs
+C:\Users\Lenovo\source\repos\Restaurant\core\obj\Debug\net8.0\core.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\Restaurant\core\obj\Debug\net8.0\core.dll
+C:\Users\Lenovo\source\repos\Restaurant\core\obj\Debug\net8.0\refint\core.dll
+C:\Users\Lenovo\source\repos\Restaurant\core\obj\Debug\net8.0\core.pdb
+C:\Users\Lenovo\source\repos\Restaurant\core\obj\Debug\net8.0\core.genruntimeconfig.cache
+C:\Users\Lenovo\source\repos\Restaurant\core\obj\Debug\net8.0\ref\core.dll
